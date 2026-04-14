@@ -18,7 +18,7 @@ A lightweight Python-based Intrusion Detection and Prevention System (IDS/IPS) b
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/your-username/v-shield-firewall.git
+git clone https://github.com/vedanthbn2/v-shield-firewall1.git
 cd v-shield-firewall
 ```
 
